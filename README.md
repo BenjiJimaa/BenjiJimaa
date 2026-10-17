@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BenjiJimaa&color=555555&style=flat-square&label=Profile+Views" alt="profile views"/>
   <a href="https://instagram.com/444xbnji"><img src="https://img.shields.io/badge/Instagram-444xbnji-000000?style=flat-square&logo=instagram&logoColor=white" alt="instagram"/></a>
 </p>
 
@@ -47,10 +46,6 @@ const benji = {
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=BenjiJimaa&theme=dark&background=0D1117&border=30363D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenjiJimaa&bg_color=0d1117&color=ffffff&line=888888&point=ffffff&area=true&area_color=444444&hide_border=true" width="95%"/>
 </p>
 
 ---
