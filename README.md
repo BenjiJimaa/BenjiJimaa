@@ -1,88 +1,38 @@
-<!-- HEADER -->
-```
-                  .                   .                         :.  ::      .::::-:-:::-
-         .:       .                                          .. ..   :.     ..:-:.:.. ..
-                                                             ::.  .        .-:-:...
-                     ..                                    .  ..  .::::.:::::::-:
-      .              :--.                                .:+++**- :::::.:..:..
-     .-::.            ...                             :*%@#%@@%+.---:::::::..:...
-                 .+*###*==%+                        .+%@%%#*+-:-====---::...::.
-                  +#%%%%##@@#:                       .           :----:.   ..:.
-                    :=+++++=-                                     :--:::...::.
-                    ::--::::.                                ..  ..
-                     :    .:..                               .:.         ..           .
-                   ...    .::..                               .:. .   .:.
-                   .:.                     .::.               .:.   ...---:.  ...
-         .: :.  ....    .                 :--=-::.       .-:   --         :-:: .:-: ..
-   .:..     .   .::                      .-=----.        :=-.... ...    .. ..--:....
-                          ....          ..   ...-.       .:...:.           :::---::.
-                          . ....         .  .....      .....:=-        .......:::--::.
-                            ..           .::-::.    .:---:--+=   .      ...::--:-::. .
-                         .:            ...--==--=*##@@@#+--+-            .::...::-::..
-                                 :--#@###%%%%%#*#@@@@@#+-=+-        ...  ..  ..:--:.
-                                 .-=#@%@@@@@@@@%%%@%#*++++:                  ..::::-::.
-                               :: -++=*%@@@@@%%%%%##*-=*+.:::...             .:-..:::-.
-                                .:-:  *@@@@@@%@@@@@@#-+= ... ...               :::::-::.
-                                      -%@@@@@@@@@@@@*=-.  .....                :::.:-:.
-                                       =%@@%%%%####*=-                       .  .::..:.
-                                        --::--==--=-...                        ....:..
-                                       .      ...::::.                        ..::
-                                              .::. ..                        .....:..
-```
+<!-- Semua gambar di bawah dibuat oleh scripts/build.py dan diperbarui tiap hari lewat .github/workflows/profile.yml -->
 
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <a href="https://github.com/BenjiJimaa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Benji+%F0%9F%91%8B;Backend+%26+Automation+Developer;Building+systems+for+a+car+rental+%F0%9F%9A%97;Python+%7C+Node.js+%7C+Flutter;Finished+projects%3F+Coming+soon%E2%84%A2" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/cat.svg" width="100%" alt="ASCII kucing hitam mengaum di atas hujan kode heksadesimal merah" />
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/444xbnji"><img src="https://img.shields.io/badge/Instagram-444xbnji-000000?style=flat-square&logo=instagram&logoColor=white" alt="instagram"/></a>
+  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/header.svg" width="100%" alt="benji@void: figlet BENJI" />
 </p>
 
----
-
-### 🖤 About Me
-
-```js
-const benji = {
-  pronouns: "he/him",
-  location: "Surabaya, Indonesia 🇮🇩",
-  currentlyBuilding: ["Car rental booking system", "Internal staff app", "REST API"],
-  interests: ["Automation", "Backend", "Minecraft VFX"],
-  motto: "pakek dah pakek",
-};
-```
-
-- 🔭 Lagi ngerjain sistem untuk bisnis rental mobil — booking, stok armada, sampai aplikasi petugas
-- ⚙️ Suka bikin tools otomasi kecil biar kerjaan manual hilang
-- 🎬 Sampingan: ngedit VFX / GMV Minecraft di After Effects
-
----
-
-### 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,flutter,dart,mysql,gcp,git,github,vscode,ae&theme=dark&perline=6" />
+  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/whoami.svg" width="100%" alt="whoami: Benji, backend &amp; automation engineer, Surabaya" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BenjiJimaa&theme=dark&background=0D1117&border=30363D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&hide_border=true" height="170"/>
+  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/ps.svg" width="100%" alt="ps aux: daftar project" />
 </p>
 
----
-
-### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/tree.svg" width="49%" alt="tree ~/stack" />
+  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/proc.svg" width="49%" alt="cat /proc/streak" />
+</p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/nekomata.svg" width="100%" alt="nekomata.exe: kucing hitam berburu grid kontribusi" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/ssh.svg" width="100%" alt="ssh benji@void: kontak" />
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/444xbnji"><code>instagram @444xbnji</code></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/eye.svg" width="100%" alt="mata ASCII yang berkedip" />
 </p>
