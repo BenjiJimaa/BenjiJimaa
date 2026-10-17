@@ -77,7 +77,7 @@ def gql(query, variables):
 def fetch_days():
     q1 = "query($u:String!){user(login:$u){createdAt contributionsCollection{contributionYears}}}"
     q2 = """query($u:String!,$f:DateTime!,$t:DateTime!){user(login:$u){contributionsCollection(from:$f,to:$t){
-      contributionCalendar{weeks{contributionDays{date contributionCount contributionLevel}}}}}}"""
+      restrictedContributionsCount contributionCalendar{totalContributions weeks{contributionDays{date contributionCount contributionLevel}}}}}}"""
     try:
         r = gql(q1, {"u": USER})
         if not r or "errors" in r: raise RuntimeError(r)
@@ -85,9 +85,11 @@ def fetch_days():
         days = {}
         for y in sorted(years):
             rr = gql(q2, {"u": USER, "f": f"{y}-01-01T00:00:00Z", "t": f"{y}-12-31T23:59:59Z"})
-            for wk in rr["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]:
+            cc = rr["data"]["user"]["contributionsCollection"]
+            for wk in cc["contributionCalendar"]["weeks"]:
                 for d in wk["contributionDays"]:
                     days[d["date"]] = (d["contributionCount"], d["contributionLevel"])
+            print("year", y, "calendar", cc["contributionCalendar"]["totalContributions"], "restricted", cc["restrictedContributionsCount"])
         # last-year calendar (as shown on the profile)
         rr = gql("""query($u:String!){user(login:$u){contributionsCollection{contributionCalendar{
           weeks{contributionDays{date contributionCount contributionLevel weekday}}}}}}""", {"u": USER})
@@ -597,7 +599,7 @@ def build_eye():
 def main():
     days, weeks, real = fetch_days()
     st = stats(days)
-    print("stats:", st, "real data" if real else "sample data")
+    print("years:", sorted({d[:4] for d in days}), "stats:", st, "real data" if real else "sample data")
     files = {"cat.svg": build_cat(), "header.svg": build_header(), "whoami.svg": build_whoami(),
              "ps.svg": build_ps(), "nekomata.svg": build_neko(weeks), "ssh.svg": build_ssh(), "eye.svg": build_eye()}
     tree, h = build_tree()
