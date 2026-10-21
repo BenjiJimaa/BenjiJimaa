@@ -56,8 +56,8 @@ def fetch():
     # lines of code: additions / deletions of my commits on the default branch of my own repos
     add = dele = 0
     for repo in u["repositories"]["nodes"]:
-        if repo["isFork"] or not repo["defaultBranchRef"]:
-            continue
+        if repo["isFork"] or not repo["defaultBranchRef"] or repo["name"].lower() == USER.lower():
+            continue                                # skip forks and this profile repo (generated SVGs, not code)
         cursor = None
         try:
             while True:
