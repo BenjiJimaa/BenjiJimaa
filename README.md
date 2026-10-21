@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/whoami.svg" width="100%" alt="whoami: a self-decrypting dossier on benji that wipes itself, ending in DATA NOT FOUND and a watching eye" />
+  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/whoami.svg?v=2" width="100%" alt="whoami: a self-decrypting dossier on benji that wipes itself, ending in DATA NOT FOUND and a watching eye" />
 </p>
 
 <p align="center">
