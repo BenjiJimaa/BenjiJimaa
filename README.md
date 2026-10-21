@@ -1,38 +1,38 @@
-<!-- Semua gambar di bawah dibuat oleh scripts/build.py dan diperbarui tiap hari lewat .github/workflows/profile.yml -->
+<!-- Every image below is built by scripts/build.py and refreshed daily by .github/workflows/profile.yml -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/cat.svg" width="100%" alt="ASCII kucing hitam mengaum di atas hujan kode heksadesimal merah" />
+  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/neofetch.svg" width="100%" alt="benji@void: ASCII B logo decoded like a hack, system info, contact and live GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/header.svg" width="100%" alt="benji@void: figlet BENJI" />
+  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/hello.svg" width="100%" alt="echo [hello-world]: the terminal gets breached, Hello World is assembled from data, exfiltrated, and two ASCII hands reach for each other" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/whoami.svg" width="100%" alt="whoami: Benji, backend &amp; automation engineer, Surabaya" />
+  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/whoami.svg" width="100%" alt="whoami: a self-decrypting dossier on benji that wipes itself, ending in DATA NOT FOUND and a watching eye" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/ps.svg" width="100%" alt="ps aux: daftar project" />
+  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/missions.svg" width="100%" alt="ls ~/missions: WANTED poster whose face is always masked, next to the case board of projects" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/tree.svg" width="49%" alt="tree ~/stack" />
-  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/proc.svg" width="49%" alt="cat /proc/streak" />
+  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/netwatch.svg" width="100%" alt="netwatch: the contribution year as an intercept monitor" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/nekomata.svg" width="100%" alt="nekomata.exe: kucing hitam berburu grid kontribusi" />
+  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/logout.svg" width="100%" alt="logout: session terminated, contacts, CRT power-off" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/ssh.svg" width="100%" alt="ssh benji@void: kontak" />
-</p>
-
-<p align="center">
-  <a href="https://instagram.com/444xbnji"><code>instagram @444xbnji</code></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BenjiJimaa/BenjiJimaa/output/eye.svg" width="100%" alt="mata ASCII yang berkedip" />
+  <sub>
+    cold cases &nbsp;›&nbsp;
+    <a href="https://github.com/BenjiJimaa/Convert-Png-To-WEBP"><code>Convert-Png-To-WEBP</code></a>
+    <a href="https://github.com/BenjiJimaa/Express-CRUD"><code>Express-CRUD</code></a>
+    <a href="https://github.com/BenjiJimaa/Generate-Folder-auto"><code>Generate-Folder-auto</code></a>
+    <a href="https://github.com/BenjiJimaa/INSIGT-EROR-HANDLER"><code>insight-error-handler</code></a>
+    <br/>
+    reach the suspect &nbsp;›&nbsp;
+    <a href="https://instagram.com/444xbnji"><code>instagram @444xbnji</code></a>
+  </sub>
 </p>
